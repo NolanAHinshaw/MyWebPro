@@ -1,0 +1,28 @@
+body {
+    background-color: ivory;
+    margin-left : 20%;
+    margin-right: 20%;
+}
+
+h1 {
+    color: red;
+    text-decoration: underline;
+}
+
+p {
+    text-indent : 2cm;
+}
+
+.arsenal {
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    text-align: justify;
+}
+
+.artist {
+    font-size: 14;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: moccasin;
+}

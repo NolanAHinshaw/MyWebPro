@@ -1,0 +1,76 @@
+body {
+    background-color: burlywood;
+}
+
+.headers {
+    text-align: start;
+    margin-left: 10;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15pt;
+    font-weight: bold;
+    color: black;
+}
+
+.assignments {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: aquamarine;
+}
+
+.exam-table {
+    width: 30%;
+    font-size: 12pt;
+    color: black;
+    border: 2px solid black; 
+    font-family: "Comic Sans MS";
+    text-align: start;
+}
+
+.timetable {
+    width: 90%;
+    font-size: 13pt;
+    color: black;
+    border: 2px solid black; 
+    font-family: "Comic Sans MS";
+    text-align: start;
+}
+
+
+.timetable-text {
+    font-size: 14pt;
+    color: black;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+.syllabus {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+
+.syllabus h1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.syllabus h2 {
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.prof-teach-table {
+    width: 30%;
+    font-size: 12pt;
+    color: black;   
+    border: 2px solid black; 
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+
+.table-header {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: aliceblue;
+}
