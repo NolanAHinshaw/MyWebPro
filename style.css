@@ -1,0 +1,51 @@
+body {
+    width: 300px;
+    height: 600px;
+    background-image: url("./images/BG.png");
+    background-size: cover;
+}
+
+@keyframes mymove {
+    from {left: -200px;}
+    to {left: 1500px;}
+}
+
+.cloud {
+    position: absolute;
+    width: 15%;
+    height: 30%;
+    top: 0px;
+    animation: mymove 10s infinite;
+}
+
+.blimp {
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    top: 100px;
+    animation: mymove 7s infinite;
+}
+
+.stars {
+    position: absolute;
+    width:5%;
+    height: 10%;
+    left: 40%;
+    top: 0px;
+}
+
+.walking-man {
+    position: absolute;
+    width: 15%;
+    height: 30%;
+    bottom: -70px;
+    animation: mymove 7s infinite;
+}
+
+.car {
+    position: absolute;
+    width: 15%;
+    height: 30%;
+    bottom: -140px;
+    animation: mymove 10s infinite;
+}
